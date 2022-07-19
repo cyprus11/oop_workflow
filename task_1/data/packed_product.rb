@@ -1,0 +1,3 @@
+class PackedProduct
+
+end
